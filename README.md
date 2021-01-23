@@ -1,5 +1,6 @@
 # ![React + Redux Example App](project-logo.png)
 
+
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 
 > ### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
@@ -12,6 +13,9 @@ Originally created for this [GH issue](https://github.com/reactjs/redux/issues/1
 
 We also have notes in [**our wiki**](https://github.com/gothinkster/react-redux-realworld-example-app/wiki) about how the various patterns used in this codebase and how they work (thanks [@thejmazz](https://github.com/thejmazz)!)
 
+## Run demo on netlify: 
+
+[Click Here](http://react-redux-realworld-example-app.netlify.app)
 
 ## Getting started
 
