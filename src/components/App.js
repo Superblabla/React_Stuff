@@ -52,6 +52,7 @@ class App extends React.Component {
     if (this.props.appLoaded) {
       return (
         <div>
+          <div>First Commit mod</div>  
           <Header
             appName={this.props.appName}
             currentUser={this.props.currentUser} />
@@ -66,6 +67,7 @@ class App extends React.Component {
             <Route path="/@:username/favorites" component={ProfileFavorites} />
             <Route path="/@:username" component={Profile} />
             </Switch>
+                      
         </div>
       );
     }
